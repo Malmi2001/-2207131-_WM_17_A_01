@@ -1,0 +1,114 @@
+.Container {
+    text-align: center;
+    justify-content: center;
+    display: flexbox;
+    width: 370px;
+    height: 295px;
+    padding: 16px;
+    background-color: white;
+    margin: 0 auto;
+    border: 1px solid #eae3e3;
+    border-radius: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-border-radius: 3%;
+    -moz-border-radius: 3%;
+    -ms-border-radius: 3%;
+    -o-border-radius: 3%;
+}
+
+.I1 {
+  position: static;
+    justify-content: center;
+    width: 22%;
+    height: 16%;
+   padding-left: 39%;
+    padding-top: 2%;
+    }
+
+.H1{
+    font-family:  inherit ;
+    font-size: 100%;
+    font-weight: 400;
+}
+
+.F1 {
+    justify-content: center;
+    background-color:white;
+    height: 75%;
+    width: 50%;
+    border-radius: 10%;
+    box-shadow: rgb(242, 242, 242);
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+    
+}
+
+.J1{
+    position: relative;
+    justify-content: left;
+    height: 45px;
+    width: 190%;
+    margin: 4%;
+    border: 0.5%;
+    border-left: 0.3%;
+    border-left: #f1f3f5;
+   
+    border-color: #f1f3f5;
+   box-sizing: content-box;
+    font-size: large;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-style: inset;
+    box-shadow: none;
+
+}
+
+.J2{
+    position: static;
+    justify-content: left;
+    height: 22%;
+    width: 190%;
+    margin: 4%;
+    border: 2%;
+    border-color: #f1f3f5;
+    box-sizing: content-box;
+    font-size: large;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.M1{
+    position: relative;
+    justify-content: center;
+    height: 24%;
+    width: 194%;
+    margin: 3%;
+    border: 2%;
+    box-shadow:none;
+    border-color:white;
+   
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(12, 106, 247);
+    color:white;
+    border-radius: 8PX;
+    -webkit-border-radius: 8PX;
+    -moz-border-radius: 8PX;
+    -ms-border-radius: 8PX;
+    -o-border-radius: 8PX;
+}
+
+.A{
+    color: rgb(21, 111, 238);
+    margin-bottom: 10%;
+    padding-bottom: 10vh;
+
+}
